@@ -1,5 +1,5 @@
 {
-    'name': 'Client communication copilot',
+    'name': 'ChatGPT to automate order updates from customer emails(beta)',
     'version': '1.0',
     'category': 'Extra Tools',
     'sequence': '-100',
